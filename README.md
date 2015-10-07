@@ -1,3 +1,4 @@
+# Initial
 * Modules
 * Component models
 * Now we have the experience
@@ -6,16 +7,16 @@
 * Experiences from smaller teams
 * Functional languages lend themselves more to emergent architectures
 
-= Components =
+# Components
 * Use dumb components
 
-= Stateless =
+# Stateless
 * Hard to understand
 * Alternative is pure functions
 * Easier to understand
 * No history
 
-= Other libraries =
+# Other libraries 
 * RxJs
 ** Data as streams
 * ImmutableJS
@@ -24,10 +25,10 @@
 *** As in map/reduce
 ** History can be rolled back and replayed
 
-= React or Angular =
+# React or Angular
 * Can do either, but redux is react
 
-=Notes=
+# Notes
 * More complex state suggests looking at functional approaches
 
 
