@@ -18,12 +18,12 @@
 
 # Other libraries 
 * RxJs
-** Data as streams
+ * Data as streams
 * ImmutableJS
 * Redux
-** Concept is reducing actions
-*** As in map/reduce
-** History can be rolled back and replayed
+ * Concept is reducing actions
+* As in map/reduce
+* History can be rolled back and replayed
 
 # React or Angular
 * Can do either, but redux is react
